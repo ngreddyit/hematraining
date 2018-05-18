@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<!-- Gangi Added New Line -->
 <c:forEach var ="tempstudent"  items="${student_list}">
 ${tempstudent}<br/>
 </c:forEach>
